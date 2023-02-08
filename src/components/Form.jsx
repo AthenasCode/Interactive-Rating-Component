@@ -6,7 +6,7 @@ export function Form({ handleSubmit, handleRatingClicked }) {
     >
       <img
         className="bg-zinc-700 p-2 rounded-full mb-8"
-        src="../interactive-rating-component-main/images/icon-star.svg"
+        src="../images/icon-star.svg"
         alt="Star"
       />
       <h1 className="mb-3 font-bold text-xl">How did we do?</h1>
