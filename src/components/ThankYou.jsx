@@ -2,7 +2,7 @@ export function ThankYou({ selectedRating }) {
   return (
     <div className="max-w-sm min-w-300 flex flex-col justify-center items-center text-white bg-gradient-to-b from-gray-800 to-gray-900 w-2/6 rounded-3xl p-10">
       <img
-        src="../interactive-rating-component-main/images/illustration-thank-you.svg"
+        src="interactive-rating-component-main/images/illustration-thank-you.svg"
         alt="Tablet"
         className="mb-5"
       />
